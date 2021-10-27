@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hackbright Alumni 2020!
+Hackbright Alumni 2020! </br>
 All female engineering school located in the beautiful(?) San Francisco. 
 
 - 🔭 I’m currently working on webscraping within Django for a repo company. 
