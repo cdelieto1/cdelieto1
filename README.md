@@ -8,6 +8,6 @@ All female engineering school located in the beautiful(?) San Francisco.
 - 👯 I’m looking to collaborate on anything backend! 
 - 🤔 I’m looking for help with debugging.
 - 💬 Ask me about: where you should go to eat and drink next.
-- 📫 How to reach me: cassandradelieto at geemail.calm
+- 📫 How to reach me: cassandradelieto+github@gmail.com
 - My laptop leaves me feeling: 😄 
 - ⚡ Fun fact: I can tell you anything about the group Queen and/or Freddie Mercury. 
